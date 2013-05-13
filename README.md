@@ -1,4 +1,4 @@
-##Things needs to know for publishing a module to [npm](#https://npmjs.org)
+##Things need to know for publishing a module to [npm](#https://npmjs.org)
 
 ###HOW TO CREATE PACKAGE.JSON?
 package.json is a necessary file when you want to publish you module to [npm](#https://npmjs.org).
