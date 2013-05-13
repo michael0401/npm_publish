@@ -7,7 +7,7 @@ package.json is a necessary file when you want to publish you module to [npm](#h
 2. Type in following commands:
     
     <code>npm init</code>  
-3. Follow the steps and answer all the questions(For every question, the npm will provide you with default answer, just press enter if you don't want to change it).
+3. Follow the steps and answer all the questions (For every question, the npm will provide you with default answer, just press enter if you don't want to change it).
 4. After you answer all the questions, npm will present you the information in the the package.json. You can either type "yes" to create the package.json or type "no" to abort.
 
 ###HOW TO PUBLISH?
@@ -23,7 +23,7 @@ By publishing you module to [npm](#https://npmjs.org), you can allow other peopl
 ###HOW TO DELETE?
 After you succesfully publish your module, you can also delete it from [npm](#https://npmjs.org).
 
-* To delete the entire module( all versions), type in commands: 
+* To delete the entire module (all versions), type in commands: 
 
     <code>npm unpublish \<module-name\> --force</code>
 * To delete a specific version, type in commands:
