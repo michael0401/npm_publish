@@ -33,5 +33,5 @@ After you succesfully publish your module, you can also delete it from [npm](#ht
 ###HOW TO PUBLISH A NEW VERSION?
 After you modify you module, you can publish a latest version to replace the old one.
 
-1. The version standard should start from "0.0.0" and always in this format. Change the version to a new one in the package.json file(Use <code>npm init</code>).
+1. The version standard should start from "0.0.0" and always in this format. Change the version to a new one in the package.json file (Use <code>npm init</code>).
 2. Publish the module.
